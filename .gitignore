@@ -1,0 +1,9 @@
+# Build Folders
+bin/
+obj/
+Euler/bin/
+Euler/obj/
+
+# Env
+*.env
+*.env.*
