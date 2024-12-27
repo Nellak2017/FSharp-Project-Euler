@@ -7,3 +7,6 @@ Euler/obj/
 # Env
 *.env
 *.env.*
+
+# Fantomas Formatting
+.config/dotnet-tools.json
